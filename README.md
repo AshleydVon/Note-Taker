@@ -16,7 +16,7 @@ To correctly complete the command-line, the user should run the command: "npm in
 
 ## Usage
 To use the application, the user should use the command : "node server.js"
-To correctly run the test, use the command: "npm test"
+To correctly run the test, use the command: "npm start"
 
 ## Accessing the Server
 
@@ -60,6 +60,8 @@ If you have any questions, please open an issue or contact me directly at [ashle
 ## Screen-Shots
 | Image | Description |
 | --- | --- |
-| ![screenshot1](./assets/screenshot1.png) | Landing page |
-| ![screenshot2](./assets/screenshot2.png) | Notes page |
-| ![screenshot3](./assets/screenshot3.png) | Saving a new note |
+| ![screenshot1](./assets/1stNote.png) | 1st Note Added |
+| ![screenshot2](./assets/2nd%20Note.png) | 2nd Note Added |
+| ![screenshot3](./assets/All%20Notes.png) | All Notes Added |
+| ![screenshot3](./assets/Test-Delete.png) | Saving a Test Delete Note |
+| ![screenshot3](./assets/All-Deleted.png | All Notes Successfully Deleted |
