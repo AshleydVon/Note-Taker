@@ -16,6 +16,24 @@ To correctly complete the command-line, the user should run the command: "npm in
 
 ## Usage
 To use the application, the user should use the command : "node server.js"
+To correctly run the test, use the command: "npm test"
+
+## Accessing the Server
+
+Open your web browser and go to: (http://localhost:3001)
+
+## Using the Application
+Viewing Notes:
+When you access the application in your web browser, you will see the landing page where you can click on "Get Started" to view the notes page.
+
+Adding a Note:
+On the notes page, you can enter the title and text for your new note in the provided fields and click the save button to save the note.
+
+Deleting a Note:
+Each note will have a delete icon next to it. Click the delete icon to remove the note from the list.
+
+By following these steps, you can successfully set up, access, and use the Note-Taker application.
+
 
 ## License
 This project is licensed under the MIT license.
@@ -37,7 +55,7 @@ If you have any questions, please open an issue or contact me directly at [ashle
 
 
 ## Deployed Live Website:
-(link-to-your-deployed-application)
+(https://ashleydvon.github.io/Note-Taker/)
 
 ## Screen-Shots
 | Image | Description |
